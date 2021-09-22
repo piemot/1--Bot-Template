@@ -2,7 +2,7 @@
 
 A Starlight commission for {username#discriminator}, {userid} 
 
-#### For Devs: See Dev Instructions below ####
+#### For Devs: See [Dev Instructions](#dev-instructions) below ####
 
 | Essential Values |         |
 | ---              | ---     |
